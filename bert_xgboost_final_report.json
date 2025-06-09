@@ -1,0 +1,32 @@
+{
+  "accuracy": 0.8132,
+  "precision": 0.8135,
+  "recall": 0.8143,
+  "f1_score": 0.8139,
+  "roc_auc": 0.8961,
+  "validation_loss": 0.3889,
+  "training_loss": 0.1609,
+  "test_log_loss": 0.4062,
+  "support_per_class": {
+    "1": 980,
+    "0": 974
+  },
+  "correct_predictions": 1589,
+  "total_samples": 1954,
+  "confusion_matrix": {
+    "labels": [
+      "Non-Hate",
+      "Hate"
+    ],
+    "matrix": [
+      [
+        791,
+        183
+      ],
+      [
+        182,
+        798
+      ]
+    ]
+  }
+}
