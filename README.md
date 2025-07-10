@@ -23,5 +23,5 @@ The aim of this project is to evaluate the performance of hybrid machine learnin
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Hybrid-Model-BERT-XGBoost-Hate-Speech-Classification.git
+   git clone https://github.com/humblgod/Hybrid-Model-BERT-XGBoost-Hate-Speech-Classification.git
    cd Hybrid-Model-BERT-XGBoost-Hate-Speech-Classification
